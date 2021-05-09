@@ -9,6 +9,7 @@
   console.log(others);
 }
 
+
 // const otherScore = [12, 14]
 // const scores = [80, 90, 40, 70, ...otherScore];
 
